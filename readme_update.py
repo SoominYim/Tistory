@@ -1,4 +1,4 @@
-import feedparser
+import feedparser, datetime
 import ssl
 
 # 디버깅 출력 추가
