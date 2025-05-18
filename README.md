@@ -2,7 +2,7 @@
 # 공부하자
 
 ### 📕 Latest Blog Posts
- 
+
 <br/>
 
 <a href="https://s-o-o-min.tistory.com/entry/React-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-act-is-not-supported-in-production-builds-of-React-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0"> React 테스트 환경에서 &quot;act(...) is not supported in production builds of React&quot; 오류 해결 </a> - May 14, 2025<br/><br/>
